@@ -44,7 +44,7 @@
             font-size: 16px;
             padding: 5px;
             text-align: left;
-            margin-left: 570px;
+            margin-left: 650px;
             margin-right: 400px;
             border: 0.5px;
             border-style: solid;
@@ -326,7 +326,7 @@
 <?php
 
     // define variables and set to empty values
-    $group = $email = $choise = $comment = "";
+    $group = $email = $comment = $math_choise = $est_choise = $phys_choise = $bio_choise = $eng_choise = $rus_choise = $lit_choise = $pe_choise = $des_choise = $prog_choise = $db_choise = "";
 
     if ($_SERVER["REQUEST_METHOD"] == "POST") {
 
