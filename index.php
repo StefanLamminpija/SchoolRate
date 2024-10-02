@@ -523,7 +523,7 @@
 
                 <label for="exampleFormControlInput1" class="form-label"> &emsp;Group </label>
 
-                <input name="group" type="text" class="form-control" id="exampleFormControlInput1">
+                <input name="group" type="text" class="form-control" id="exampleFormControlInput1" required>
 
             </div>
 
@@ -531,7 +531,7 @@
 
                 <label for="exampleFormControlInput1" class="form-label"> &emsp;Email </label>
 
-                <input name="email" type="email" class="form-control" id="exampleFormControlInput1">
+                <input name="email" type="email" class="form-control" id="exampleFormControlInput1" required>
 
             </div>
 
