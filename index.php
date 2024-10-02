@@ -387,11 +387,11 @@
 
             Mathematics&thinsp;&thinsp;
 
-            <input type="radio" name="math_choise" value="Poor">
-            <input type="radio" name="math_choise" value="Bad">
-            <input type="radio" name="math_choise" value="Okay">
-            <input type="radio" name="math_choise" value="Good">
-            <input type="radio" name="math_choise" value="Excellent">
+            <input type="radio" name="math_choise" value="Poor" required>
+            <input type="radio" name="math_choise" value="Bad" required>
+            <input type="radio" name="math_choise" value="Okay" required>
+            <input type="radio" name="math_choise" value="Good" required>
+            <input type="radio" name="math_choise" value="Excellent" required>
     
         </div>
 
@@ -399,11 +399,11 @@
 
             Estonian&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;
                 
-            <input type="radio" name="est_choise" value="Poor">
-            <input type="radio" name="est_choise" value="Bad">
-            <input type="radio" name="est_choise" value="Okay">
-            <input type="radio" name="est_choise" value="Good">
-            <input type="radio" name="est_choise" value="Excellent">
+            <input type="radio" name="est_choise" value="Poor" required>
+            <input type="radio" name="est_choise" value="Bad" required>
+            <input type="radio" name="est_choise" value="Okay" required>
+            <input type="radio" name="est_choise" value="Good" required>
+            <input type="radio" name="est_choise" value="Excellent" required>
     
         </div>
 
@@ -411,11 +411,11 @@
 
             Physics&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;
                 
-            <input type="radio" name="phys_choise" value="Poor">
-            <input type="radio" name="phys_choise" value="Bad">
-            <input type="radio" name="phys_choise" value="Okay">
-            <input type="radio" name="phys_choise" value="Good">
-            <input type="radio" name="phys_choise" value="Excellent">
+            <input type="radio" name="phys_choise" value="Poor" required>
+            <input type="radio" name="phys_choise" value="Bad" required>
+            <input type="radio" name="phys_choise" value="Okay" required>
+            <input type="radio" name="phys_choise" value="Good" required>
+            <input type="radio" name="phys_choise" value="Excellent" required>
     
         </div>
 
@@ -423,11 +423,11 @@
 
             Biology&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;
                 
-            <input type="radio" name="bio_choise" value="Poor">
-            <input type="radio" name="bio_choise" value="Bad">
-            <input type="radio" name="bio_choise" value="Okay">
-            <input type="radio" name="bio_choise" value="Good">
-            <input type="radio" name="bio_choise" value="Excellent">
+            <input type="radio" name="bio_choise" value="Poor" required>
+            <input type="radio" name="bio_choise" value="Bad" required>
+            <input type="radio" name="bio_choise" value="Okay" required>
+            <input type="radio" name="bio_choise" value="Good" required>
+            <input type="radio" name="bio_choise" value="Excellent" required>
 
         </div>  
 
@@ -435,11 +435,11 @@
 
             English&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;
                 
-            <input type="radio" name="eng_choise" value="Poor">
-            <input type="radio" name="eng_choise" value="Bad">
-            <input type="radio" name="eng_choise" value="Okay">
-            <input type="radio" name="eng_choise" value="Good">
-            <input type="radio" name="eng_choise" value="Excellent">
+            <input type="radio" name="eng_choise" value="Poor" required>
+            <input type="radio" name="eng_choise" value="Bad" required>
+            <input type="radio" name="eng_choise" value="Okay" required>
+            <input type="radio" name="eng_choise" value="Good" required>
+            <input type="radio" name="eng_choise" value="Excellent" required>
 
         </div>  
 
@@ -447,11 +447,11 @@
 
             Russian&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;
                 
-            <input type="radio" name="rus_choise" value="Poor">
-            <input type="radio" name="rus_choise" value="Bad">
-            <input type="radio" name="rus_choise" value="Okay">
-            <input type="radio" name="rus_choise" value="Good">
-            <input type="radio" name="rus_choise" value="Excellent">
+            <input type="radio" name="rus_choise" value="Poor" required>
+            <input type="radio" name="rus_choise" value="Bad" required>
+            <input type="radio" name="rus_choise" value="Okay" required>
+            <input type="radio" name="rus_choise" value="Good" required>
+            <input type="radio" name="rus_choise" value="Excellent" required>
 
         </div>  
 
@@ -459,11 +459,11 @@
 
             Literature&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;
                 
-            <input type="radio" name="lit_choise" value="Poor">
-            <input type="radio" name="lit_choise" value="Bad">
-            <input type="radio" name="lit_choise" value="Okay">
-            <input type="radio" name="lit_choise" value="Good">
-            <input type="radio" name="lit_choise" value="Excellent">
+            <input type="radio" name="lit_choise" value="Poor" required>
+            <input type="radio" name="lit_choise" value="Bad" required>
+            <input type="radio" name="lit_choise" value="Okay" required>
+            <input type="radio" name="lit_choise" value="Good" required>
+            <input type="radio" name="lit_choise" value="Excellent" required>
 
         </div>  
 
@@ -471,11 +471,11 @@
 
             PE&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;
 
-            <input type="radio" name="pe_choise" value="Poor">
-            <input type="radio" name="pe_choise" value="Bad">
-            <input type="radio" name="pe_choise" value="Okay">
-            <input type="radio" name="pe_choise" value="Good">
-            <input type="radio" name="pe_choise" value="Excellent">
+            <input type="radio" name="pe_choise" value="Poor" required>
+            <input type="radio" name="pe_choise" value="Bad" required>
+            <input type="radio" name="pe_choise" value="Okay" required>
+            <input type="radio" name="pe_choise" value="Good" required>
+            <input type="radio" name="pe_choise" value="Excellent" required>
 
         </div>  
 
@@ -483,11 +483,11 @@
 
             Design&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;
                 
-            <input type="radio" name="des_choise" value="Poor">
-            <input type="radio" name="des_choise" value="Bad">
-            <input type="radio" name="des_choise" value="Okay">
-            <input type="radio" name="des_choise" value="Good">
-            <input type="radio" name="des_choise" value="Excellent">
+            <input type="radio" name="des_choise" value="Poor" required>
+            <input type="radio" name="des_choise" value="Bad" required>
+            <input type="radio" name="des_choise" value="Okay" required>
+            <input type="radio" name="des_choise" value="Good" required>
+            <input type="radio" name="des_choise" value="Excellent" required>
 
         </div>  
 
@@ -495,11 +495,11 @@
 
             Programming
                 
-            <input type="radio" name="prog_choise" value="Poor">
-            <input type="radio" name="prog_choise" value="Bad">
-            <input type="radio" name="prog_choise" value="Okay">
-            <input type="radio" name="prog_choise" value="Good">
-            <input type="radio" name="prog_choise" value="Excellent">
+            <input type="radio" name="prog_choise" value="Poor" required>
+            <input type="radio" name="prog_choise" value="Bad" required>
+            <input type="radio" name="prog_choise" value="Okay" required>
+            <input type="radio" name="prog_choise" value="Good" required>
+            <input type="radio" name="prog_choise" value="Excellent" required>
 
         </div>  
 
@@ -507,11 +507,11 @@
 
             Databases&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;
             
-            <input type="radio" name="db_choise" value="Poor">
-            <input type="radio" name="db_choise" value="Bad">
-            <input type="radio" name="db_choise" value="Okay">
-            <input type="radio" name="db_choise" value="Good">
-            <input type="radio" name="db_choise" value="Excellent">
+            <input type="radio" name="db_choise" value="Poor" required>
+            <input type="radio" name="db_choise" value="Bad" required>
+            <input type="radio" name="db_choise" value="Okay" required>
+            <input type="radio" name="db_choise" value="Good" required>
+            <input type="radio" name="db_choise" value="Excellent" required>
 
         </div>  
 
@@ -531,7 +531,7 @@
 
                 <label for="exampleFormControlInput1" class="form-label"> &emsp;Email </label>
 
-                <input type="email" type="text" class="form-control" id="exampleFormControlInput1">
+                <input name="email" type="email" class="form-control" id="exampleFormControlInput1">
 
             </div>
 
