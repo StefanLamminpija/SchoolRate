@@ -323,41 +323,6 @@
 
     </div>
 
-<?php
-
-    // define variables and set to empty values
-    $group = $email = $comment = $math_choise = $est_choise = $phys_choise = $bio_choise = $eng_choise = $rus_choise = $lit_choise = $pe_choise = $des_choise = $prog_choise = $db_choise = "";
-
-    if ($_SERVER["REQUEST_METHOD"] == "POST") {
-
-        $group = test_input($_POST["group"]);
-        $email = test_input($_POST["email"]);
-        $comment = test_input($_POST["comment"]);
-        $math_choise = test_input($_POST["math_choise"]);
-        $est_choise= test_input($_POST["est_choise"]);
-        $phys_choise = test_input($_POST["phys_choise"]);
-        $bio_choise = test_input($_POST["bio_choise"]);
-        $eng_choise = test_input($_POST["eng_choise"]);
-        $rus_choise = test_input($_POST["rus_choise"]);
-        $lit_choise = test_input($_POST["lit_choise"]);
-        $pe_choise = test_input($_POST["pe_choise"]);
-        $des_choise = test_input($_POST["des_choise"]);
-        $prog_choise = test_input($_POST["prog_choise"]);
-        $db_choise = test_input($_POST["db_choise"]);
-
-    }
-
-    function test_input($data) {
-
-        $data = trim($data);
-        $data = stripslashes($data);
-        $data = htmlspecialchars($data);
-        return $data;
-
-    }
-
-?>
-
     <div class="second_heading">
         <div class="poor_name">
             Poor
@@ -381,7 +346,7 @@
     </div>
 
 
-    <form method="post" action="<?php echo htmlspecialchars($_SERVER["PHP_SELF"]);?>">  
+    <form method="post" action="insert_process.php">  
 
         <div class="math_box">
 
@@ -523,7 +488,7 @@
 
                 <label for="exampleFormControlInput1" class="form-label"> &emsp;Group </label>
 
-                <input name="group" type="text" class="form-control" id="exampleFormControlInput1" required>
+                <input name="groupp" type="text" class="form-control" id="exampleFormControlInput1" required>
 
             </div>
 
@@ -549,38 +514,9 @@
 
     </form>
 
-<?php
+    <br>
+    <br>
 
-    echo "<h2>Your Input:</h2>";
-    echo $group;
-    echo "<br>";
-    echo $email;
-    echo "<br>";
-    echo $comment;
-    echo "<br>";
-    echo $math_choise;
-    echo "<br>";
-    echo $est_choise;
-    echo "<br>";
-    echo $phys_choise;
-    echo "<br>";
-    echo $bio_choise;
-    echo "<br>";
-    echo $eng_choise;
-    echo "<br>";
-    echo $rus_choise;
-    echo "<br>";
-    echo $lit_choise;
-    echo "<br>";
-    echo $pe_choise;
-    echo "<br>";
-    echo $des_choise;
-    echo "<br>";
-    echo $prog_choise;
-    echo "<br>";
-    echo $db_choise;
-
-?>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 
