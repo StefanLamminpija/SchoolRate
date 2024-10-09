@@ -10,7 +10,7 @@ $mysqli = new mysqli($host, $username, $password, $database);
 if ($mysqli->connect_error) {
     die ("Connection failed: " . $mysqli->connect_error);
 } else {
-    echo "Data has been Sent!";
+    echo "Data has been Sent! ";
 }
 
 $mysqli->set_charset("utf8");

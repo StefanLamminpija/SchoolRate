@@ -309,8 +309,17 @@
             border-color: #2E81FF;
 
         }
-    
 
+        .submit_button2 {
+
+            margin-left:200px;
+            margin-right:200px;
+            margin-top: 20px;
+            padding: 10px;
+            border-radius: 30px;
+            border-color: #c7427f;
+
+        }
 
     </style>
 
@@ -514,13 +523,15 @@
 
     </form>
 
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
-    <br>
+    <div class="combined_results">
 
+    <a href="/schoolrate/combined_results.html">
+                <input class="submit_button2" type="submit" value="Combined Results">
+
+    <div>
+
+
+</script>
 
 <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz" crossorigin="anonymous"></script>
 
