@@ -23,7 +23,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     if (empty($groupp) || empty($email) || empty($comment) || empty($math_choise) || empty($est_choise) || empty($phys_choise) || empty($bio_choise) || empty($eng_choise) || empty($rus_choise) || empty($lit_choise) || empty($pe_choise) || empty($des_choise) || empty($prog_choise) || empty($db_choise)) {
         echo "All fields are required.";
     } else {
-        // Insert data into the 'users' table
+        // Insert data into the 'student_choise' table
         $sql = "INSERT INTO 
                 student_choise (groupp, email, comment, math_choise, est_choise, phys_choise, bio_choise, eng_choise, rus_choise, lit_choise, pe_choise, des_choise, prog_choise, db_choise)
                 VALUES ('$groupp', '$email', '$comment', '$math_choise', '$est_choise', '$phys_choise', '$bio_choise', '$eng_choise', '$rus_choise', '$lit_choise', '$pe_choise', '$des_choise', '$prog_choise', '$db_choise')";
