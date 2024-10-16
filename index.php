@@ -310,14 +310,22 @@
 
         }
 
-        .submit_button2 {
+        .combined_results {
 
             margin-left:200px;
             margin-right:200px;
             margin-top: 20px;
             padding: 10px;
+            margin-bottom: 100px;
             border-radius: 30px;
             border-color: #c7427f;
+            display: flex;
+            justify-content: center;
+            font-family: "Manrope", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 400;
+            font-size: 14px;
+            border-color: #2E81FF;
 
         }
 
