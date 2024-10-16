@@ -531,7 +531,7 @@
 
     <div class="combined_results">
 
-    <a href="/schoolrate/combined_results.html">
+    <a href="/schoolrate/combined_results.php">
                 <input class="submit_button2" type="submit" value="Combined Results">
 
     <div>
