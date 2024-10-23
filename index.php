@@ -312,18 +312,27 @@
 
         .combined_results {
 
+            display: flex;
+            justify-content: center;
             margin-left:200px;
             margin-right:200px;
             margin-top: 20px;
-            padding: 10px;
+            padding: 20px;
             margin-bottom: 100px;
-            border-radius: 30px;
-            display: flex;
-            justify-content: center;
             font-family: "Manrope", sans-serif;
-            font-optical-sizing: auto;
             font-weight: 400;
             font-size: 14px;
+            
+        }
+
+        .submit_button_input {
+
+            border-radius: 30px;
+            border-color: #82b4ff;
+            padding-left: 30px;
+            padding-right: 30px;
+            padding-top: 2px;
+            padding-bottom: 2px;
 
         }
 
@@ -531,8 +540,8 @@
 
     <div class="combined_results">
 
-    <a href="/schoolrate/combined_results.php">
-                <input class="submit_button2" type="submit" value="Combined Results">
+        <a href="/schoolrate/combined_results.php">
+        <input class="submit_button_input" type="submit" value="Combined Results">
 
     <div>
 
