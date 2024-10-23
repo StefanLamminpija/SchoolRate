@@ -336,6 +336,111 @@
 
         }
 
+        .q1 {
+
+            display: flex;
+            justify-content: space-around;
+            font-family: "Kumbh Sans", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 500;
+            font-style: left;
+            font-variation-settings:
+            "YOPQ" 300;
+            text-align: left;
+            border: 0.5px;
+            border-style: solid;
+            padding: 20px;
+            margin-top: 10px;
+            margin-left: 400px;
+            margin-right: 400px;
+            border-radius: 3px;
+
+        }
+
+        .q2 {
+
+            display: flex;
+            justify-content: space-around;
+            font-family: "Kumbh Sans", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 500;
+            font-style: left;
+            font-variation-settings:
+            "YOPQ" 300;
+            text-align: left;
+            border: 0.5px;
+            border-style: solid;
+            padding: 20px;
+            margin-top: 10px;
+            margin-left: 400px;
+            margin-right: 400px;
+            border-radius: 3px;
+
+        }   
+
+        .q3 {
+
+            display: flex;
+            justify-content: space-around;
+            font-family: "Kumbh Sans", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 500;
+            font-style: left;
+            font-variation-settings:
+            "YOPQ" 300;
+            text-align: left;
+            border: 0.5px;
+            border-style: solid;
+            padding: 20px;
+            margin-top: 10px;
+            margin-left: 400px;
+            margin-right: 400px;
+            border-radius: 3px;
+
+        }  
+
+        .q4 {
+
+            display: flex;
+            justify-content: space-around;
+            font-family: "Kumbh Sans", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 500;
+            font-style: left;
+            font-variation-settings:
+            "YOPQ" 300;
+            text-align: left;
+            border: 0.5px;
+            border-style: solid;
+            padding: 20px;
+            margin-top: 10px;
+            margin-left: 400px;
+            margin-right: 400px;
+            border-radius: 3px;
+
+        }  
+
+        .q5 {
+
+            display: flex;
+            justify-content: space-around;
+            font-family: "Kumbh Sans", sans-serif;
+            font-optical-sizing: auto;
+            font-weight: 500;
+            font-style: left;
+            font-variation-settings:
+            "YOPQ" 300;
+            text-align: left;
+            border: 0.5px;
+            border-style: solid;
+            padding: 20px;
+            margin-top: 10px;
+            margin-left: 400px;
+            margin-right: 400px;
+            border-radius: 3px;
+
+        }  
+
     </style>
 
 </head>
@@ -503,6 +608,46 @@
             <input type="radio" name="db_choise" value="5" required>
 
         </div>  
+
+        <div class="q1">
+
+            <label for="exampleFormControlTextarea1" class="form-label"> Have the courses that you have been taking been useful to you? &emsp;&emsp;&emsp;</label>
+
+            <textarea name="first_question" class="form-control" id="exampleFormControlTextarea1" rows="2" required></textarea> 
+
+        </div>
+
+        <div class="q2">
+
+            <label for="exampleFormControlTextarea1" class="form-label"> What courses do you think should be improved and why? &emsp;&emsp;&emsp;</label>
+
+            <textarea name="second_question" class="form-control" id="exampleFormControlTextarea1" rows="2" required></textarea> 
+
+        </div>
+
+        <div class="q3">
+
+            <label for="exampleFormControlTextarea1" class="form-label"> Do you think the teachers should be more efficient in their teachings? &emsp;&emsp;&emsp;</label>
+
+            <textarea name="third_question" class="form-control" id="exampleFormControlTextarea1" rows="2" required></textarea> 
+
+        </div>
+
+        <div class="q4">
+
+            <label for="exampleFormControlTextarea1" class="form-label"> What courses would you recommend to be removed or added? &emsp;&emsp;</label>
+
+            <textarea name="fourth_question" class="form-control" id="exampleFormControlTextarea1" rows="2" required></textarea> 
+
+        </div>
+
+        <div class="q5">
+
+            <label for="exampleFormControlTextarea1" class="form-label"> Do you think that the school should have more career specific courses? &emsp;&emsp;&emsp;</label>
+
+            <textarea name="fifth_question" class="form-control" id="exampleFormControlTextarea1" rows="2" required></textarea> 
+
+        </div>
 
         <br><br>
 
