@@ -44,242 +44,10 @@
             font-size: 16px;
             padding: 5px;
             text-align: left;
-            margin-left: 650px;
-            margin-right: 400px;
-            border: 0.5px;
-            border-style: solid;
-            border-radius: 3px;
-
-        }
-
-        .math_box {
-
-            display: flex;
-            justify-content: space-around;
-            font-family: "Kumbh Sans", sans-serif;
-            font-optical-sizing: auto;
-            font-weight: 500;
-            font-style: normal;
-            font-variation-settings:
-            "YOPQ" 300;
-            text-align: left;
-            border: 0.5px;
-            border-style: solid;
-            padding: 20px;
-            margin-top: 10px;
             margin-left: 400px;
             margin-right: 400px;
-            border-radius: 3px;
-
-        }
-
-
-        .estonian_box {
-
-            display: flex;
-            justify-content: space-around;
-            font-family: "Kumbh Sans", sans-serif;
-            font-optical-sizing: auto;
-            font-weight: 500;
-            font-style: normal;
-            font-variation-settings:
-            "YOPQ" 300;
-            text-align: left;
             border: 0.5px;
             border-style: solid;
-            padding: 20px;
-            margin-top: 10px;
-            margin-left: 400px;
-            margin-right: 400px;
-            border-radius: 3px;
-
-        }
-
-        .physics_box {
-
-            display: flex;
-            justify-content: space-around;
-            font-family: "Kumbh Sans", sans-serif;
-            font-optical-sizing: auto;
-            font-weight: 500;
-            font-style: left;
-            font-variation-settings:
-            "YOPQ" 300;
-            text-align: left;
-            border: 0.5px;
-            border-style: solid;
-            padding: 20px;
-            margin-top: 10px;
-            margin-left: 400px;
-            margin-right: 400px;
-            border-radius: 3px;
-
-        }
-
-        .biology_box {
-
-            display: flex;
-            justify-content: space-around;
-            font-family: "Kumbh Sans", sans-serif;
-            font-optical-sizing: auto;
-            font-weight: 500;
-            font-style: left;
-            font-variation-settings:
-            "YOPQ" 300;
-            text-align: left;
-            border: 0.5px;
-            border-style: solid;
-            padding: 20px;
-            margin-top: 10px;
-            margin-left: 400px;
-            margin-right: 400px;
-            border-radius: 3px;
-
-        }
-
-        .english_box {
-
-            display: flex;
-            justify-content: space-around;
-            font-family: "Kumbh Sans", sans-serif;
-            font-optical-sizing: auto;
-            font-weight: 500;
-            font-style: left;
-            font-variation-settings:
-            "YOPQ" 300;
-            text-align: left;
-            border: 0.5px;
-            border-style: solid;
-            padding: 20px;
-            margin-top: 10px;
-            margin-left: 400px;
-            margin-right: 400px;
-            border-radius: 3px;
-
-        }
-
-        .russian_box {
-
-            display: flex;
-            justify-content: space-around;
-            font-family: "Kumbh Sans", sans-serif;
-            font-optical-sizing: auto;
-            font-weight: 500;
-            font-style: left;
-            font-variation-settings:
-            "YOPQ" 300;
-            text-align: left;
-            border: 0.5px;
-            border-style: solid;
-            padding: 20px;
-            margin-top: 10px;
-            margin-left: 400px;
-            margin-right: 400px;
-            border-radius: 3px;
-
-        }
-
-        .literature_box {
-
-            display: flex;
-            justify-content: space-around;
-            font-family: "Kumbh Sans", sans-serif;
-            font-optical-sizing: auto;
-            font-weight: 500;
-            font-style: left;
-            font-variation-settings:
-            "YOPQ" 300;
-            text-align: left;
-            border: 0.5px;
-            border-style: solid;
-            padding: 20px;
-            margin-top: 10px;
-            margin-left: 400px;
-            margin-right: 400px;
-            border-radius: 3px;
-
-        }
-
-        .pe_box {
-
-            display: flex;
-            justify-content: space-around;
-            font-family: "Kumbh Sans", sans-serif;
-            font-optical-sizing: auto;
-            font-weight: 500;
-            font-style: left;
-            font-variation-settings:
-            "YOPQ" 300;
-            text-align: left;
-            border: 0.5px;
-            border-style: solid;
-            padding: 20px;
-            margin-top: 10px;
-            margin-left: 400px;
-            margin-right: 400px;
-            border-radius: 3px;
-
-        }
-
-        .design_box {
-
-            display: flex;
-            justify-content: space-around;
-            font-family: "Kumbh Sans", sans-serif;
-            font-optical-sizing: auto;
-            font-weight: 500;
-            font-style: left;
-            font-variation-settings:
-            "YOPQ" 300;
-            text-align: left;
-            border: 0.5px;
-            border-style: solid;
-            padding: 20px;
-            margin-top: 10px;
-            margin-left: 400px;
-            margin-right: 400px;
-            border-radius: 3px;
-
-        }
-
-        .programming_box {
-
-            display: flex;
-            justify-content: space-around;
-            font-family: "Kumbh Sans", sans-serif;
-            font-optical-sizing: auto;
-            font-weight: 500;
-            font-style: left;
-            font-variation-settings:
-            "YOPQ" 300;
-            text-align: left;
-            border: 0.5px;
-            border-style: solid;
-            padding: 20px;
-            margin-top: 10px;
-            margin-left: 400px;
-            margin-right: 400px;
-            border-radius: 3px;
-
-        }
-
-        .database_box {
-
-            display: flex;
-            justify-content: space-around;
-            font-family: "Kumbh Sans", sans-serif;
-            font-optical-sizing: auto;
-            font-weight: 500;
-            font-style: left;
-            font-variation-settings:
-            "YOPQ" 300;
-            text-align: left;
-            border: 0.5px;
-            border-style: solid;
-            padding: 20px;
-            margin-top: 10px;
-            margin-left: 400px;
-            margin-right: 400px;
             border-radius: 3px;
 
         }
@@ -336,110 +104,56 @@
 
         }
 
-        .q1 {
-
+        .box {
             display: flex;
             justify-content: space-around;
             font-family: "Kumbh Sans", sans-serif;
-            font-optical-sizing: auto;
             font-weight: 500;
-            font-style: left;
-            font-variation-settings:
-            "YOPQ" 300;
-            text-align: left;
-            border: 0.5px;
-            border-style: solid;
             padding: 20px;
             margin-top: 10px;
             margin-left: 400px;
             margin-right: 400px;
+            border: 0.5px solid;
             border-radius: 3px;
-
         }
 
-        .q2 {
+        .hidden {
+            opacity: 0;
+            user-select: none;
+            pointer-events: none;
+            -webkit-touch-callout: none; /* unselectable */
+            -webkit-user-select: none;
+            -khtml-user-select: none;
+            -moz-user-select: none;
+            -ms-user-select: none;
+            user-select: none;
+            cursor: pointer;
+        }
 
-            display: flex;
-            justify-content: space-around;
-            font-family: "Kumbh Sans", sans-serif;
-            font-optical-sizing: auto;
-            font-weight: 500;
-            font-style: left;
-            font-variation-settings:
-            "YOPQ" 300;
-            text-align: left;
-            border: 0.5px;
-            border-style: solid;
-            padding: 20px;
-            margin-top: 10px;
-            margin-left: 400px;
-            margin-right: 400px;
-            border-radius: 3px;
+        .hid{display:none;} 
 
-        }   
+        @media (max-width: 1200px) {
+            .second_heading,
+            .box,
+            .bottom_page,
+            .combined_results {
+                margin-left: 0;
+                margin-right: 0;
+                padding: 10px; /* Можно добавить немного внутреннего отступа */
+            }
+        }
 
-        .q3 {
-
-            display: flex;
-            justify-content: space-around;
-            font-family: "Kumbh Sans", sans-serif;
-            font-optical-sizing: auto;
-            font-weight: 500;
-            font-style: left;
-            font-variation-settings:
-            "YOPQ" 300;
-            text-align: left;
-            border: 0.5px;
-            border-style: solid;
-            padding: 20px;
-            margin-top: 10px;
-            margin-left: 400px;
-            margin-right: 400px;
-            border-radius: 3px;
-
-        }  
-
-        .q4 {
-
-            display: flex;
-            justify-content: space-around;
-            font-family: "Kumbh Sans", sans-serif;
-            font-optical-sizing: auto;
-            font-weight: 500;
-            font-style: left;
-            font-variation-settings:
-            "YOPQ" 300;
-            text-align: left;
-            border: 0.5px;
-            border-style: solid;
-            padding: 20px;
-            margin-top: 10px;
-            margin-left: 400px;
-            margin-right: 400px;
-            border-radius: 3px;
-
-        }  
-
-        .q5 {
-
-            display: flex;
-            justify-content: space-around;
-            font-family: "Kumbh Sans", sans-serif;
-            font-optical-sizing: auto;
-            font-weight: 500;
-            font-style: left;
-            font-variation-settings:
-            "YOPQ" 300;
-            text-align: left;
-            border: 0.5px;
-            border-style: solid;
-            padding: 20px;
-            margin-top: 10px;
-            margin-left: 400px;
-            margin-right: 400px;
-            border-radius: 3px;
-
-        }  
+        @media (min-width: 2400px) {
+            .second_heading,
+            .box,
+            .bottom_page,
+            .combined_results {
+                max-width: 1800px; /* Установите максимальную ширину */
+                margin-left: auto; /* Центрирование */
+                margin-right: auto; /* Центрирование */
+                padding: 10px; /* Внутренние отступы */
+            }
+        }
 
     </style>
 
@@ -453,6 +167,10 @@
     </div>
 
     <div class="second_heading">
+        <div class="hidden">
+            Matmatmatmatmatt
+        </div>
+        
         <div class="poor_name">
             Poor
         </div>
@@ -477,7 +195,7 @@
 
     <form method="post" action="insert_process.php">  
 
-        <div class="math_box">
+        <div class="math_box box">
 
             Mathematics&thinsp;&thinsp;
 
@@ -489,7 +207,7 @@
     
         </div>
 
-        <div class="estonian_box">
+        <div class="estonian_box box">
 
             Estonian&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;
                 
@@ -501,7 +219,7 @@
     
         </div>
 
-        <div class="physics_box">
+        <div class="physics_box box">
 
             Physics&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;
                 
@@ -513,7 +231,7 @@
     
         </div>
 
-        <div class="biology_box">
+        <div class="biology_box box">
 
             Biology&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;
                 
@@ -525,7 +243,7 @@
 
         </div>  
 
-        <div class="english_box">
+        <div class="english_box box">
 
             English&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;
                 
@@ -537,7 +255,7 @@
 
         </div>  
 
-        <div class="russian_box">
+        <div class="russian_box box">
 
             Russian&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;
                 
@@ -549,7 +267,7 @@
 
         </div>  
 
-        <div class="literature_box">
+        <div class="literature_box box">
 
             Literature&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;
                 
@@ -561,7 +279,7 @@
 
         </div>  
 
-        <div class="pe_box">
+        <div class="pe_box box">
 
             PE&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;
 
@@ -573,7 +291,7 @@
 
         </div>  
 
-        <div class="design_box">
+        <div class="design_box box">
 
             Design&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;
                 
@@ -585,7 +303,7 @@
 
         </div>  
 
-        <div class="programming_box">
+        <div class="programming_box box">
 
             Programming
                 
@@ -597,7 +315,7 @@
 
         </div>  
 
-        <div class="database_box">
+        <div class="database_box box">
 
             Databases&thinsp;&thinsp;&thinsp;&thinsp;&thinsp;
             
@@ -609,7 +327,7 @@
 
         </div>  
 
-        <div class="q1">
+        <div class="q1 box">
 
             <label for="exampleFormControlTextarea1" class="form-label"> Have the courses that you have been taking been useful to you? &emsp;&emsp;&emsp;</label>
 
@@ -617,7 +335,7 @@
 
         </div>
 
-        <div class="q2">
+        <div class="q2 box">
 
             <label for="exampleFormControlTextarea1" class="form-label"> What courses do you think should be improved and why? &emsp;&emsp;&emsp;</label>
 
@@ -625,7 +343,7 @@
 
         </div>
 
-        <div class="q3">
+        <div class="q3 box">
 
             <label for="exampleFormControlTextarea1" class="form-label"> Do you think the teachers should be more efficient in their teachings? &emsp;&emsp;&emsp;</label>
 
@@ -633,7 +351,7 @@
 
         </div>
 
-        <div class="q4">
+        <div class="q4 box">
 
             <label for="exampleFormControlTextarea1" class="form-label"> What courses would you recommend to be removed or added? &emsp;&emsp;</label>
 
@@ -641,7 +359,7 @@
 
         </div>
 
-        <div class="q5">
+        <div class="q5 box">
 
             <label for="exampleFormControlTextarea1" class="form-label"> Do you think that the school should have more career specific courses? &emsp;&emsp;&emsp;</label>
 
