@@ -1,0 +1,49 @@
+##### config.inc.php
+/* Authentication type and info */
+$cfg['Servers'][$i]['password'] = 'mysql';
+
+/* User for advanced features */
+$cfg['Servers'][$i]['controluser'] = 'root';
+$cfg['Servers'][$i]['controlpass'] = 'mysql';
+
+
+##### my.ini
+[client]
+password = mysql
+port=8000
+
+# The MySQL server
+default-character-set=utf8mb4
+[mysqld]
+port=8000
+
+
+##### SQL
+-- Create DB
+CREATE DATABASE IF NOT EXISTS schoolrateDB;
+
+USE schoolrateDB;
+
+-- Create table student_choise
+CREATE TABLE IF NOT EXISTS student_choise (
+    id INT AUTO_INCREMENT PRIMARY KEY,
+    groupp VARCHAR(255) NOT NULL,
+    email VARCHAR(255) NOT NULL,
+    comment TEXT NOT NULL,
+    math_choise INT NOT NULL,
+    est_choise INT NOT NULL,
+    phys_choise INT NOT NULL,
+    bio_choise INT NOT NULL,
+    eng_choise INT NOT NULL,
+    rus_choise INT NOT NULL,
+    lit_choise INT NOT NULL,
+    pe_choise INT NOT NULL,
+    des_choise INT NOT NULL,
+    prog_choise INT NOT NULL,
+    db_choise INT NOT NULL,
+    first_question TEXT NOT NULL,
+    second_question TEXT NOT NULL,
+    third_question TEXT NOT NULL,
+    fourth_question TEXT NOT NULL,
+    fifth_question TEXT NOT NULL
+);
